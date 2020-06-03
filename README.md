@@ -1,5 +1,5 @@
 # Corona-Twitter-Bot
-A Twitter Bot that tweets the current statistics about Covid-19
+A Twitter Bot that tweets the current statistics about Covid-19<br>
 Twitter Profile: https://twitter.com/strotmann6
 
 <h3>Dependencies</h3>
